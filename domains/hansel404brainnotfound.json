@@ -1,0 +1,11 @@
+{
+  "description": "Hansel's Birthday Website",
+  "repo": "https://github.com/Aloysius7/hansel_birthday_demo_ui",
+  "owner": {
+    "username": "Aloysius7",
+    "email": "your@email.com"
+  },
+  "record": {
+    "CNAME": "aloysius7.github.io"
+  }
+}
